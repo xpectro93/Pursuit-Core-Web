@@ -130,7 +130,7 @@ will create a new directory called `Music`.
 To open a file (such as a text file) to view its contents, type the name of the app you would like to use to open it. For example, we will use a text editor called **atom** to open a text file:
 
 ```bash
-atom foo.js
+code foo.js
 ```
 
 
